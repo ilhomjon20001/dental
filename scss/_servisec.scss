@@ -1,0 +1,97 @@
+.servisec{
+    padding-top: 80px;
+    &_hr{
+        width: 50px;
+        border: 2px solid #FFD600;
+        background: #FFD600;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    h2{
+        width: 140px;
+        font-family: 'Roboto Flex', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 36px;
+        line-height: 42px;
+        color: #272727; 
+        margin: auto;                
+    }
+    &_paragrf{
+        font-family: 'Roboto Flex', sans-serif;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 25px;
+        color: #272727;
+        text-align: center;
+        padding: 15px 33px;
+    }
+    &_li1{
+        display: none;
+    }
+    &_lioxshash2{
+        display: none;
+    }
+    &_lioxshash3{
+        display: none;
+    }
+    &_lioxshash5{
+        
+    }
+    &_lioxshash1{
+        background: #FFFFFF;
+        box-shadow: 0px 0px 35px rgba(0, 0, 0, 0.1);
+        border-radius: 5px;
+        padding: 26px 61px;
+        img{
+            margin-left: 4px;
+            margin-bottom: 13px;
+        }
+        h4{
+            width: 79px;
+            font-family: 'Roboto Flex', sans-serif;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 21px;
+            color: #272727;
+            text-align: center;
+            margin-bottom: 12px;
+        }
+    }
+    &_lihr{
+        width: 25px;
+        border: 2px solid #0A60C3;
+        background-color: #0A60C3;
+        margin: auto;
+        margin-bottom: 13px;
+    }
+    &_licospr{
+        text-align: center; 
+        font-family: 'Roboto Flex', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        text-decoration-line: line-through;
+        color: rgba(0, 0, 0, 0.25); 
+        margin-bottom: 3px;  
+    }
+    &_lioverpar{
+        font-family: 'Roboto Flex', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 21px;
+        color: #0A60C3;
+        text-align: center;
+    }
+    ul{
+        display: flex;
+        list-style: none;
+      .oxshash1{
+        display: none;
+      }      
+    }
+}

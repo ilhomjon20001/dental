@@ -1,0 +1,52 @@
+@mixin href {
+    font-family: 'Roboto Flex', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    background: #0055B8;
+    border-radius: 5px;
+    text-decoration: none;
+}
+@mixin p_400 {
+    font-family: 'Roboto Flex', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #272727;
+}
+@mixin p_300 {
+    font-family: 'Roboto Flex', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    color: #272727;
+}
+@mixin p_500 {
+    font-family: 'Roboto Flex', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    color: #272727;
+}
+@mixin serblu500 {
+    font-family: 'Roboto Flex', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #0A60C3;
+}
+@mixin serblac500 {
+    font-family: 'Roboto Flex', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration-line: line-through;
+    color: rgba(0, 0, 0, 0.25);    
+}
